@@ -2,7 +2,7 @@
   "content_scripts": [
     {
       "js": ["fix.js"],
-      "matches": ["https://hypixel.net/members/*", "https://hypixel.net/conversations/*"]
+      "matches": ["https://hypixel.net/members/*", "https://hypixel.net/conversations/*", "https://hypixel.net/threads/*"]
     }
   ],
   "manifest_version": 3,
